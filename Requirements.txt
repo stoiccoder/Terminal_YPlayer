@@ -1,0 +1,7 @@
+pip install colorama
+pip install selenium
+pip install BeautifulTable
+pip install bs4
+pip install mechanize
+pip install pyautogui
+pip install lxml
